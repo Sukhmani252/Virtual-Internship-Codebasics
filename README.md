@@ -23,3 +23,9 @@ Analyze the cleaned data in Excel to answer the following:
 - Which purchase locations have the highest and lowest average taste experience ratings?
 - Which brand is most preferred among respondents aged 19–30?
 - What is the average taste experience rating across all brands?
+
+Task 3: Python Automation
+
+Consolidate monthly revenue data from the provided month-wise Excel files and automate its import into a MySQL database using Python.
+
+*Created a Python script to read and consolidate the month-wise revenue files and load the combined data into a structured MySQL table. Tested the script with multiple monthly files to ensure accurate data import.*
