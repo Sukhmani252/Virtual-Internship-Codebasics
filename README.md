@@ -1,4 +1,4 @@
-## Virtual-Internship - AtliQ Technologies
+## Virtual Internship - AtliQ Technologies
 This repository contains all the tasks completed as a virtual intern at AtliQ Technologies.
 
 ### WEEK 1: Survey Data Analysis (Excel)
